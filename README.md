@@ -19,7 +19,7 @@
 
 > I put the operations runbooks inside Oracle AI Database 26ai, generated embeddings **inside the database** with an ONNX model, and built a RAG function with one rule: **no approved runbook, no answer**. Getting there took four real stumbles. None of the fixes was lowering the threshold. All of them live in the database.
 
-Full write-up (Portuguese): **[RAG que sabe dizer "não sei"](https://planningit.wordpress.com/2026/11/20/rag-governado-ai-vector-search-oracle-26ai/)**
+Full write-up (Portuguese): **[RAG que sabe dizer "não sei"](https://planningit.wordpress.com/2026/11/13/rag-governado-ai-vector-search-oracle-26ai/)**
 
 Part 3 of a series:
 1. [oci-select-ai-agent-itops](https://github.com/kelsenlima/oci-select-ai-agent-itops): ITOps agent inside the database (Select AI Agent)

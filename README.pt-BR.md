@@ -19,7 +19,7 @@
 
 > Coloquei os runbooks da operação dentro do Oracle AI Database 26ai, gerei os vetores **no próprio banco** com um modelo ONNX e montei uma função de RAG com uma regra: **sem runbook aprovado, sem resposta**. O caminho teve quatro tropeços reais. Nenhuma correção foi baixar o limite. Todas ficaram no banco.
 
-Post completo: **[RAG que sabe dizer "não sei"](https://planningit.wordpress.com/2026/11/20/rag-governado-ai-vector-search-oracle-26ai/)**
+Post completo: **[RAG que sabe dizer "não sei"](https://planningit.wordpress.com/2026/11/13/rag-governado-ai-vector-search-oracle-26ai/)**
 
 Parte 3 de uma série:
 1. [oci-select-ai-agent-itops](https://github.com/kelsenlima/oci-select-ai-agent-itops): agente de ITOps dentro do banco (Select AI Agent)
